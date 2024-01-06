@@ -1,0 +1,1 @@
+MajorProjSpecs file is what the webpage was supposed to look like. index.html and style.css is what I created to achieve the design. Feel free to use this how you please, just replace the blank images where necessary and change the information to your specifications!
